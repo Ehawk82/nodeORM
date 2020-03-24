@@ -1,0 +1,23 @@
+{
+  "name": "nodeorm",
+  "version": "1.0.0",
+  "description": "\u0016Operational Risk Management powered by nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "index": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ehawk82/nodeORM.git"
+  },
+  "keywords": [
+    "ORM"
+  ],
+  "author": "Jason Graziano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ehawk82/nodeORM/issues"
+  },
+  "homepage": "https://github.com/Ehawk82/nodeORM#readme"
+}
