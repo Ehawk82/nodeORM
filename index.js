@@ -1,1 +1,3 @@
-console.log("Hello-ORM");
+function orm(x) { return x };
+
+module.exports = { nodeorm: orm };
