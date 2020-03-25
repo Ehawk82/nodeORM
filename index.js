@@ -1,3 +1,3 @@
-function orm(x) { return x };
+function nodeorm(x) { return x };
 
-module.exports = { nodeorm: orm };
+module.exports = { nodeorm: nodeorm };
